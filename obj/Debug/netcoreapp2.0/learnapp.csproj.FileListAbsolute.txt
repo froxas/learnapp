@@ -1,0 +1,11 @@
+C:\Temp\learnapp\bin\Debug\netcoreapp2.0\learnapp.deps.json
+C:\Temp\learnapp\bin\Debug\netcoreapp2.0\learnapp.runtimeconfig.json
+C:\Temp\learnapp\bin\Debug\netcoreapp2.0\learnapp.runtimeconfig.dev.json
+C:\Temp\learnapp\bin\Debug\netcoreapp2.0\learnapp.dll
+C:\Temp\learnapp\bin\Debug\netcoreapp2.0\learnapp.pdb
+C:\Temp\learnapp\obj\Debug\netcoreapp2.0\learnapp.csprojAssemblyReference.cache
+C:\Temp\learnapp\obj\Debug\netcoreapp2.0\learnapp.csproj.CoreCompileInputs.cache
+C:\Temp\learnapp\obj\Debug\netcoreapp2.0\learnapp.AssemblyInfoInputs.cache
+C:\Temp\learnapp\obj\Debug\netcoreapp2.0\learnapp.AssemblyInfo.cs
+C:\Temp\learnapp\obj\Debug\netcoreapp2.0\learnapp.dll
+C:\Temp\learnapp\obj\Debug\netcoreapp2.0\learnapp.pdb
